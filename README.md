@@ -19,6 +19,7 @@ Este es un proyecto de página web para Crae, un juego de mesa que estimula la c
 - CSS3
 
 prueba 
+https://criad.netlify.app
 
 ## Cómo ejecutar el proyecto
 
